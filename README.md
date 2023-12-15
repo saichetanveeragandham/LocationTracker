@@ -23,7 +23,7 @@ Android device or emulator with API level 23 or higher
 ## Installation
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/saichetanveeragandham/LocationTracker.git
 
 Open the project in Android Studio.
 
